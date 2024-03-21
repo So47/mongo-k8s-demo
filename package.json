@@ -1,0 +1,14 @@
+{
+    "name": "mongo-k8s-demo",
+    "version": "1.0.0",
+    "description": "A simple Node.js app for Kubernetes with MongoDB",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.10.9"
+    }
+  }
+  
